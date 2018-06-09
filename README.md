@@ -1,2 +1,2 @@
 # E-TWOW.KZ
-Landing page
+Landing page для Компании E-TWOW.KZ
